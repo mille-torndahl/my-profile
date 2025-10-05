@@ -27,12 +27,9 @@ a {
  color: #508991;
  font-weight: bolder;
 }
-a:hover {
- color:#22333B;
-}
 
 
-/* Custom design with class */
+
 
 .container {
 	width: 700px;
@@ -91,6 +88,7 @@ a:hover {
 
 .btn-coyote:hover {
 	background-color: #1A090D;
+	color: ##E9EDDE;
 }
 
 .list-inline {
@@ -115,6 +113,12 @@ color: #1A090D;
 #introduction p {
  margin-bottom: 20px;
 }
+
+
+
+
+
+
 
 
 
